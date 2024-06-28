@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+google-cloud-storage
+google-cloud-bigquery
+joblib
+functions-framework
+spotipy
+scikit-learn
+gcsfs
+fsspec
+db-dtypes
